@@ -1,0 +1,5 @@
+setup.py
+openwae.egg-info/PKG-INFO
+openwae.egg-info/SOURCES.txt
+openwae.egg-info/dependency_links.txt
+openwae.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+weeb3.py.egg-info/PKG-INFO
+weeb3.py.egg-info/SOURCES.txt
+weeb3.py.egg-info/dependency_links.txt
+weeb3.py.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+discord_react.egg-info/PKG-INFO
+discord_react.egg-info/SOURCES.txt
+discord_react.egg-info/dependency_links.txt
+discord_react.egg-info/requires.txt
+discord_react.egg-info/top_level.txt

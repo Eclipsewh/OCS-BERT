@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: discord-react
+Version: 0.0.0.2
+Summary: Discord Private Library
+Home-page: https://github.com/0xe2d0/evil-pip
+Download-URL: https://github.com/0xe2d0/evil-pip/tarball/master
+Author: 0xe2d0
+License: MIT
+Requires-Dist: requests
