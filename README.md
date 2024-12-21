@@ -11,6 +11,13 @@ Advanced Code Slicing with Pre-Trained Model Fine-Tuned for Open-Source Componen
 - RTX 4090 GPU (24GB)
 - [CodeBERT](https://huggingface.co/microsoft/codebert-base)
 
+## Datasets
+Our dataset consists of four parts, with some of them being continuously updated:
+[Maloss](https://github.com/osssanitizer/maloss/tree/master)
+[DataDog](https://github.com/DataDog/malicious-software-packages-dataset)
+[pypi_malregistry](https://github.com/lxyeternal/pypi_malregistry)
+[Backstabbers](https://dasfreak.github.io/Backstabbers-Knife-Collection)
+
 
 ## Environment Setup
 Navigate to the joern-cli directory and create necessary subdirectories.
@@ -29,6 +36,6 @@ Then, add the following command to the crontab:
 ```
 
 ```
-./joern --script scala/process_init.sc
 ./joern --script scala/process_setup.sc >  /dev/null
+./joern --script scala/process_init.sc
 ```
