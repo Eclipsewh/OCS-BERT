@@ -1,6 +1,10 @@
 # OCS-BERT
 Advanced Code Slicing with Pre-Trained Model Fine-Tuned for Open-Source Component Malware Detection
 
+## Introduction
+The objective of this project is to develop a system that is capable of detecting malicious components within the open-source Python package index (PyPI).
+OCS-BERT leverages taint-based program slicing to isolate sensitive behavior segments and fine-tunes pre-trained model to capture subtle semantic differences across programming languages.
+
 ## Prerequisite
 
 ### Taint-based program slicing
